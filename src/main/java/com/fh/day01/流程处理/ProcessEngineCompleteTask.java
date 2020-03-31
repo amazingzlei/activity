@@ -1,11 +1,11 @@
-package com.fh.day01;
+package com.fh.day01.流程处理;
 
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngineConfiguration;
 import org.activiti.engine.TaskService;
 
 /**
- * 处理任务
+ * 6.处理任务
  */
 public class ProcessEngineCompleteTask {
 

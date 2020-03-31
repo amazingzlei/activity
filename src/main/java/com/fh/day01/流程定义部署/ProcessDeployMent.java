@@ -1,11 +1,11 @@
-package com.fh.day01;
+package com.fh.day01.流程定义部署;
 
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngineConfiguration;
 import org.activiti.engine.RepositoryService;
 import org.activiti.engine.repository.Deployment;
 
-// 3.流程部署
+// 3.流程定义部署
 public class ProcessDeployMent {
 
     public static void main(String[] args) {

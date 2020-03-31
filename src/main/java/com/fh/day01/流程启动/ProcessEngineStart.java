@@ -1,4 +1,4 @@
-package com.fh.day01;
+package com.fh.day01.流程启动;
 
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngineConfiguration;
@@ -6,7 +6,7 @@ import org.activiti.engine.RuntimeService;
 import org.activiti.engine.runtime.ProcessInstance;
 
 /**
- * 启动流程，流程实例相当于java中new出来的一个对象
+ * 4.启动流程，流程实例相当于java中new出来的一个对象
  */
 public class ProcessEngineStart {
 

@@ -1,4 +1,4 @@
-package com.fh.day01;
+package com.fh.day01.activiti部署;
 
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngineConfiguration;

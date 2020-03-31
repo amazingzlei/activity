@@ -1,4 +1,4 @@
-package com.fh.day01;
+package com.fh.day01.流程查询;
 
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngineConfiguration;
@@ -9,7 +9,7 @@ import org.activiti.engine.task.TaskQuery;
 import java.util.List;
 
 /**
- * 任务查询，查询当前某个用户有哪些流程需要处理
+ * 5.任务查询，查询当前某个用户有哪些流程需要处理
  */
 public class ProcessEngineTaskQuery {
 
